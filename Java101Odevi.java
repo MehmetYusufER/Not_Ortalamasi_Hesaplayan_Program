@@ -29,7 +29,7 @@ public class Java101Odevi {
 
         System.out.println("Ortalama Not " + sum);
 
-        str = sum > 60 ? "Geçti" : "Kaldı";
+        str = sum > 60 ? "Sınıfı Geçti" : "Sınıfta Kaldı";
         System.out.print(str);
 
     }
